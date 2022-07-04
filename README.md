@@ -1,2 +1,2 @@
-# Davie-s-Burgers-Project-CA-
+# Davies-Burgers-Project-CA-
 Code Academy Project
